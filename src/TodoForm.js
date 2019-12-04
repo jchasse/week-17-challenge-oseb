@@ -7,7 +7,7 @@ class TodoForm extends React.Component {
     return (
 
       <div>
-        Todos
+        Todo Form Component
       </div>
     );
   }
