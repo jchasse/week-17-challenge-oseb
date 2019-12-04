@@ -35,5 +35,6 @@ The TodoForm component should render the form to create a new todo item.  Each t
 
 The Todos component should iterate over all of the todo items and render the `title` and `content` of each todo item.
 
+## Getting Started
 
 To start install the necessary packages, run `npm install` and then run `npm start` to start the application.
