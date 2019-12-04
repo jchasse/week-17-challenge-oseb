@@ -21,6 +21,8 @@ To complete this challenge you will practice working with the following concepts
 - Forms
 - Callback Functions
 
+The skeleton of each component has been set up for you but you will need to implement the functionality outlined below.  
+
 ## App Component
 
 The App component should be your top level component. It will be responsible for rendering the TodoForm and the Todos components.  It will also be responsible for keeping track of all the todos.
