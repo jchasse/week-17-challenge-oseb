@@ -1,4 +1,5 @@
 import React from 'react';
+import Todos from './Todos.js'
 
 
 class App extends React.Component {
@@ -7,10 +8,10 @@ class App extends React.Component {
     return (
 
       <div>
-        App Component
+        <Todos />
       </div>
     );
   }
 }
 
-export default App;
+export default App
